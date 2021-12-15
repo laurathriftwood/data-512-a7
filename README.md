@@ -8,7 +8,8 @@ The goal of this assignment is to demonstrate the ability to incorporate all of 
 
 ### Repository Contents
 This repository consists of the
-- _A4_Common Analysis.pdf_ Final report for Assignment 4
+- __A4_Common Analysis.pdf__ 
+-   Final report for Assignment 4
 - _A5_Extension Plan.pdf_  Final report for Assignment 5
 - _A7_ Project Report.pdf_ Final report for Assignment 7
 - _DATA512_Final_Project.ipynb_ Jupyter Notebook containing code for Assignments 4-7
@@ -37,4 +38,4 @@ data/US County Assignments - County Assignments.csv
 ### Important notes about the data
 - the full datasets and outputs are were not uploaded to the repository due to size
 - The source of the crash data is updated daily
-- 
+- This analysis is limited to my assigned county of Salt Lake County, Utah
