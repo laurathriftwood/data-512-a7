@@ -29,18 +29,22 @@ Jupyter Notebook containing code for Assignments 4-7
 Utah Department of Public Safety - Utah Crash Summary
 - data/Raw Crash Data.csv
 - https://udps.numetric.net/utah-crash-summary#/?view_id=7 
+- License: not available (https://highwaysafety.utah.gov/crash-data/)
 
 The case data file from the Kaggle repository of John Hopkins University COVID-19 data
 - data/RAW_us_confirmed_cases.csv
 - https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv 
+- License: Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
 
 The CDC dataset of masking mandates by county
 - data/U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv
 - https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i 
+- License: https://www.cdc.gov/nchs/data_access/restrictions.htm
 
 The New York Times mask compliance survey data
 - data/mask-use-by-county.csv
 - https://github.com/nytimes/covid-19-data/tree/master/mask-use 
+- License: https://github.com/nytimes/covid-19-data/blob/master/LICENSE
 
 Class County Assignments
 - data/US County Assignments - County Assignments.csv
