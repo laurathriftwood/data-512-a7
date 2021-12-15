@@ -18,6 +18,9 @@ Final report for Assignment 4
 Final report for Assignment 5
 - A5_Extension Plan.pdf
 
+Slide deck for Assignment 6
+- A6_Thriftwood.pptx
+
 Final report for Assignment 7
 - A7_ Project Report.pdf 
 
