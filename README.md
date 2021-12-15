@@ -7,12 +7,18 @@
 The goal of this assignment is to demonstrate the ability to incorporate all of the human centered data science considerations learned in the course and create research artifacts that are understandable, impactful, and reproducible. A successful project will take the form of a well-written, well-executed research study document.
 
 ### Repository Contents
-This repository consists of the
-- __A4_Common Analysis.pdf__ 
--   Final report for Assignment 4
-- _A5_Extension Plan.pdf_  Final report for Assignment 5
-- _A7_ Project Report.pdf_ Final report for Assignment 7
-- _DATA512_Final_Project.ipynb_ Jupyter Notebook containing code for Assignments 4-7
+Final report for Assignment 4
+__A4_Common Analysis.pdf__ 
+
+Final report for Assignment 5
+- _A5_Extension Plan.pdf_  
+
+Final report for Assignment 7
+- A7_ Project Report.pdf 
+
+Jupyter Notebook containing code for Assignments 4-7
+
+DATA512_Final_Project.ipynb
 
 ### Source data and licenses
 Utah Department of Public Safety - Utah Crash Summary
